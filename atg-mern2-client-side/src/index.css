@@ -1,0 +1,26 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+}
+
+.show-hide-btn{
+  width: 50px !important;
+}
+
+.post-container {
+  width: 750px !important;
+  height: 550px !important;
+  overflow-y: scroll;
+}
+
+.profile-container{
+  width: 300px !important;
+
+}
+.post-img{
+  width: 100% !important;
+  height: 200px !important;
+  
+}
